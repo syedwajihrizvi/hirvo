@@ -31,5 +31,3 @@ I can provide access to **both the frontend and backend repositories** upon requ
 
 I appreciate you taking the time to check out Hirvo.  
 Feel free to get in touch — I’m always open to meaningful discussions and collaborations!
-
-✨
