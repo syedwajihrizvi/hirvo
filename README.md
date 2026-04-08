@@ -13,7 +13,8 @@ This helps ensure:
 - 🛡️ Code security
 - 🧠 Protection of intellectual property
 - ⚙️ Better control over how the project is used and extended
-
+If you are more interested in Hirvo please feel free to visit the homepage
+https://hirvo.ca
 ---
 
 ## 📬 Want Access?
